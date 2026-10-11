@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="86" viewBox="1 91 86 86"><title>Документ</title><circle cx="44" cy="134" r="37" fill="#fff"/><g id="document" fill="none" stroke="#3E7C2E" stroke-width="3" stroke-linejoin="round">
+<path d="M32 115.5H46L57 126.5V149a2 2 0 0 1-2 2H32a2 2 0 0 1-2-2v-31.5a2 2 0 0 1 2-2Z"/>
+<path d="M46 116v10.5h10.5 M37 131h14 M37 136h14 M37 141h14" stroke-width="2.6"/>
+</g>
+</svg>

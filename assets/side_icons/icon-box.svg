@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="86" viewBox="1 -1 86 86"><title>Коробка</title><circle cx="44" cy="42" r="37" fill="#fff"/><g id="box" fill="none" stroke="#3E7C2E" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round">
+<path d="M44 21 62 30 44 39 26 30Z M26 30V53L44 63 62 53V30 M44 39V63"/></g>
+</svg>
